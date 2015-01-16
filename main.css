@@ -1,0 +1,30 @@
+header h1{
+	background-color: #24CA49;
+	height: 200px;
+	line-height: 350px;
+	border-bottom:8px;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-color: #24A149;
+	border-style: solid;
+	width: 100%;
+	margin: 0px;
+	color: white;
+}
+.inlineblocked li{
+display: inline-block;
+text-align: right;
+}
+nav{
+	background-color: #3E435C;
+	height: 50px;
+	display: inline-block;
+	width: 100%;
+	text-align: right;
+	margin: 0px;
+}
+nav li{
+	margin-right: 20px;
+	color: white;
+}
